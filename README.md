@@ -6,7 +6,7 @@ Shopizer (for java 1.8 +)
 [![stackoverflow](https://img.shields.io/badge/shopizer-stackoverflow-orange.svg?style=flat)](http://stackoverflow.com/questions/tagged/shopizer)
 -------------------
 
-Java open source e-commerce software using for my own practice purpose only
+Java open source e-commerce software using for my own practice
 
 - Shopping cart
 - Catalogue
